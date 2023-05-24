@@ -44,38 +44,4 @@ Heart:
 </svg>
 
 ## Text:
-
-Meet new and interesting dogs nearby.
-
-Easy to use.
-So easy to use, even your dog could do it.
-
-Elite Clientele.
-We have all the dogs, the greatest dogs.
-
-Guaranteed to work.
-Find the love of your dog's life or your money back.
-
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
-
-A Plan for Every Dog's Needs
-Simple and affordable price plans for you and your dog.
-
-Chihuahua
-$0/mo
-5 Matches Per Day
-10 Messages Per Day
-Unlimited App Usage
-
-Labrador
-$15/mo
-Unlimited Matches
-Unlimited Messages
-Unlimited App Usage
-
-Mastiff
-$29/mo
-Pirority Listing
-Unlimited Matches & Messages
-Unlimited App Usage
+Whether you choose to adopt or donate, you become an agent of positive change, demonstrating the profound difference that compassion and empathy can make in the world. Embrace the opportunity to transform lives, and experience the incredible rewards that come from giving a child the love, support, and opportunities they deserve.
